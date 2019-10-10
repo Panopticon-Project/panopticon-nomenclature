@@ -70,7 +70,7 @@ APT31 =
 
 APT32 = 
 
-APT33 = 
+APT33 = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/alert/public/1277530/hunting-apt33-campaign-infrastructure/)
 
 APT34 = 
 
