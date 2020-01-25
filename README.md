@@ -58,7 +58,7 @@ APT25 =
 
 APT26 = 
 
-APT27 = 
+APT27 = Emissary Panda
 
 APT28 = 
 
