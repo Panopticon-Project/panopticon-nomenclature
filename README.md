@@ -78,7 +78,7 @@ APT35 =
 
 APT36 = 
 
-APT37 = 
+APT37 = Thallium
 
 APT38 = 
 
