@@ -89,3 +89,5 @@ APT40 = APT40
 APT41 = [Barium, Winnti](https://www.technologyreview.com/f/614088/chinese-hackers-do-double-duty-operations-for-espionage-and-profit/), [ShadowHammer, ShadowPad, Wicked Panda](https://www.wired.com/story/barium-supply-chain-hackers/)
 
 Hexane = Lyceum
+
+Xenotime = [Triton, Trisis](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america)
