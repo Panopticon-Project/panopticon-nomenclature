@@ -91,3 +91,5 @@ APT41 = [Barium, Winnti](https://www.technologyreview.com/f/614088/chinese-hacke
 Hexane = Lyceum
 
 Xenotime = [Triton, Trisis](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america)
+
+Sandworm = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Quedagh, Voodoo Bear](https://attack.mitre.org/groups/G0034/)
