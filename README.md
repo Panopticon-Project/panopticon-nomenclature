@@ -93,3 +93,5 @@ Hexane = Lyceum
 Xenotime = [Triton, Trisis](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america)
 
 Sandworm = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Quedagh, Voodoo Bear](https://attack.mitre.org/groups/G0034/)
+
+Velvet Chollima = [Kimsuky Group](https://blog.yoroi.company/research/the-north-korean-kimsuky-apt-keeps-threatening-south-korea-evolving-its-ttps/)
