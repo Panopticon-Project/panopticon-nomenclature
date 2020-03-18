@@ -76,7 +76,7 @@ APT34 = OilRig, Helix Kitten
 
 APT35 = 
 
-APT36 = 
+APT36 = [Transparent Tribe, ProjectM, Mythic Leopard, TEMP.Lapis.](https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/)
 
 APT37 = Thallium
 
