@@ -105,3 +105,5 @@ Leviathan = [TEMP.Periscope](https://www.fireeye.com/blog/threat-research/2018/0
 Dragonfly = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/)
 
 Lazarus Group = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/) subgroup of Lazarus
+
+Electric Panda = doesn't seem to have an alias
