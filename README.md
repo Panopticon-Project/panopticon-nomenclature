@@ -78,7 +78,7 @@ APT35 =
 
 APT36 = [Transparent Tribe, ProjectM, Mythic Leopard, TEMP.Lapis.](https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/)
 
-APT37 = Thallium
+APT37 = Thallium, [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html)
 
 APT38 = 
 
@@ -103,3 +103,5 @@ Gaza Cybergang = [MoleRats](https://attack.mitre.org/groups/G0021/)
 Leviathan = [TEMP.Periscope](https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html)
 
 Dragonfly = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/)
+
+Lazarus Group = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/) subgroup of Lazarus
