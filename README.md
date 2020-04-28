@@ -68,7 +68,7 @@ APT30 =
 
 APT31 = 
 
-APT32 = 
+APT32 = [OceanLotus Group, Ocean Lotus, OceanLotus, Cobalt Kitty, APT-C-00, SeaLotus, Sea Lotus, APT-32, APT 32, Ocean Buffalo, POND LOACH](https://malpedia.caad.fkie.fraunhofer.de/actor/apt32) 
 
 APT33 = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/alert/public/1277530/hunting-apt33-campaign-infrastructure/)
 
