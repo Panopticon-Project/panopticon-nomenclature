@@ -62,7 +62,7 @@ APT27 = Emissary Panda
 
 APT28 = [Fancy Bear, Sofacy, Strontium, Grizzly Steppe](https://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/)
 
-APT29 = [Cozy Bear](https://en.wikipedia.org/wiki/Cozy_Bear) 
+APT29 = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/)
 
 APT30 = 
 
