@@ -107,3 +107,5 @@ Dragonfly = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/ru
 Lazarus Group = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/) subgroup of Lazarus
 
 Electric Panda = doesn't seem to have an alias
+
+Cobalt Dickens = [Silent Librarian, Mabna Institute, TA407](https://malpedia.caad.fkie.fraunhofer.de/actor/silent_librarian)
