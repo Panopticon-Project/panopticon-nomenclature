@@ -50,7 +50,7 @@ APT21 =
 
 APT22 = 
 
-APT23 = 
+APT23 = [Pirate Panda, Tropic Trooper, KeyBoy](https://malpedia.caad.fkie.fraunhofer.de/actor/pirate_panda)
 
 APT24 = 
 
