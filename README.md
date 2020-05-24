@@ -109,3 +109,5 @@ Lazarus Group = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-t
 Electric Panda = doesn't seem to have an alias
 
 Cobalt Dickens = [Silent Librarian, Mabna Institute, TA407](https://malpedia.caad.fkie.fraunhofer.de/actor/silent_librarian)
+
+Arid Viper = [Desert Falcon, APT-C-23](https://malpedia.caad.fkie.fraunhofer.de/actor/aridviper), [Two-Tailed Scorpion](https://www.technadu.com/apt-c-23-re-emerged-front-scene-mygram-hacks/102145/)
