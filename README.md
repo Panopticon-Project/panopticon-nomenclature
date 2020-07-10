@@ -58,7 +58,11 @@ APT25 =
 
 APT26 = 
 
-APT27 = Emissary Panda
+There seem to be two discretely different APT 27s
+
+APT27 = [Emissary Panda, TG-3390, APT 27, TEMP.Hippo, Group 35, Bronze Union, ZipToken, HIPPOTeam, Operation Iron Tiger, Iron Tiger APT, BRONZE UNION, Lucky Mouse](https://malpedia.caad.fkie.fraunhofer.de/actor/emissary_panda)
+
+APT27 = [Goblin Panda, Hellsing, Cycledek](https://www.fortinet.com/blog/threat-research/cta-security-playbook--goblin-panda)
 
 APT28 = [Fancy Bear, Sofacy, Strontium, Grizzly Steppe](https://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/)
 
