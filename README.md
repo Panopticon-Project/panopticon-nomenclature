@@ -24,7 +24,7 @@ APT8 =
 
 APT9 = 
 
-APT10 = [Stone Panda, Menu Pass](https://adeo.com.tr/en/adeo_annual_threat_report/)
+APT10 = [Stone Panda, Menu Pass](https://adeo.com.tr/en/adeo_annual_threat_report/), [Red Apollo, CVNX, Potassium](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN)
 
 APT11 = 
 
