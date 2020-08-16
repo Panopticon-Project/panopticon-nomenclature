@@ -117,3 +117,5 @@ Cobalt Dickens = [Silent Librarian, Mabna Institute, TA407](https://malpedia.caa
 Arid Viper = [Desert Falcon, APT-C-23](https://malpedia.caad.fkie.fraunhofer.de/actor/aridviper), [Two-Tailed Scorpion](https://www.technadu.com/apt-c-23-re-emerged-front-scene-mygram-hacks/102145/)
 
 Goblin Panda = [Cycldek, Conimes](https://securelist.com/cycldek-bridging-the-air-gap/97157/)
+
+Cactus Pete = [Karma Panda, Tonto Team](https://www.securityweek.com/china-linked-cactuspete-hackers-successful-despite-lack-sophistication)
