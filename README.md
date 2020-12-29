@@ -24,7 +24,7 @@ APT8 =
 
 APT9 = 
 
-APT10 = [Stone Panda, Menu Pass](https://adeo.com.tr/en/adeo_annual_threat_report/), [Red Apollo, CVNX, Potassium](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN)
+APT10 = [Stone Panda, Menu Pass,](https://adeo.com.tr/en/adeo_annual_threat_report/), [Red Apollo, CVNX, Potassium](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN)[Cicada, Cloud Hopper](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage)
 
 APT11 = 
 
