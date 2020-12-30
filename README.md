@@ -42,7 +42,7 @@ APT17 =
 
 APT18 = 
 
-APT19 = 
+APT19 = [Codoso Team](https://www.fireeye.com/current-threats/apt-groups.html), [Shell Crew, Web Masters, APT 19, Kung Fu Kittens, Black Vine, Temp.Avengers, Group 13](https://www.cfr.org/cyber-operations/deep-panda), [Deep Panda, WebMasters, PinkPanther, Sh3llCr3w, BRONZE FIRESTONE](https://malpedia.caad.fkie.fraunhofer.de/actor/shell_crew)
 
 APT20 = Violin Panda
 
