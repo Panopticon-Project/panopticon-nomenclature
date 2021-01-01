@@ -88,7 +88,7 @@ APT38 =
 
 APT39 = Chafer
 
-APT40 = [Gadolinium, Leviathan](https://www.zdnet.com/article/microsoft-removed-18-azure-ad-apps-used-by-chinese-state-sponsored-hacker-group/), [TEMP.Periscope](https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html)
+APT40 = [Gadolinium, Leviathan](https://www.zdnet.com/article/microsoft-removed-18-azure-ad-apps-used-by-chinese-state-sponsored-hacker-group/), [TEMP.Periscope](https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html), [TEMP.Jumper, BRONZE MOHAWK, Kryptonite Panda](https://www.securityweek.com/microsoft-says-china-linked-hackers-abused-azure-attacks)
 
 APT41 = [Barium, Winnti](https://www.technologyreview.com/f/614088/chinese-hackers-do-double-duty-operations-for-espionage-and-profit/), [ShadowHammer, ShadowPad, Wicked Panda](https://www.wired.com/story/barium-supply-chain-hackers/)
 
