@@ -119,3 +119,5 @@ Goblin Panda = [Cycldek, Conimes](https://securelist.com/cycldek-bridging-the-ai
 Cactus Pete = [Karma Panda, Tonto Team](https://www.securityweek.com/china-linked-cactuspete-hackers-successful-despite-lack-sophistication)
 
 BlackTech = [Palmerworm](https://thehackernews.com/2020/09/chinese-apt-group-targets-media-finance.html)
+
+Red Delta = [Mustang Panda, TA416](https://threatpost.com/ta416-apt-plugx-malware-variant/161505/)
