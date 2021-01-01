@@ -117,3 +117,5 @@ Arid Viper = [Desert Falcon, APT-C-23](https://malpedia.caad.fkie.fraunhofer.de/
 Goblin Panda = [Cycldek, Conimes](https://securelist.com/cycldek-bridging-the-air-gap/97157/)
 
 Cactus Pete = [Karma Panda, Tonto Team](https://www.securityweek.com/china-linked-cactuspete-hackers-successful-despite-lack-sophistication)
+
+BlackTech = [Palmerworm](https://thehackernews.com/2020/09/chinese-apt-group-targets-media-finance.html)
