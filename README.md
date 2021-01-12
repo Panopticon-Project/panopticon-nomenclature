@@ -82,7 +82,7 @@ APT35 = [Charming Kitten, ITG18, Phosphorous, APT35, and NewsBeef](https://www.s
 
 APT36 = [Transparent Tribe, ProjectM, Mythic Leopard, TEMP.Lapis.](https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/)
 
-APT37 = Thallium, [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html)
+APT37 = Thallium, [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html), [ScarCruft](https://cyware.com/news/researchers-caught-a-north-korean-group-trying-out-a-new-hiding-trick-cc691397)
 
 APT38 = 
 
