@@ -92,6 +92,8 @@ APT40 = [Gadolinium, Leviathan](https://www.zdnet.com/article/microsoft-removed-
 
 APT41 = [Barium, Winnti](https://www.technologyreview.com/f/614088/chinese-hackers-do-double-duty-operations-for-espionage-and-profit/), [ShadowHammer, ShadowPad, Wicked Panda](https://www.wired.com/story/barium-supply-chain-hackers/)
 
+APT-C-50 = [Domestic Kitten](https://www.maldefense.com/tag/apt-c-50)
+
 Hexane = Lyceum
 
 Xenotime = [Triton, Trisis](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america)
