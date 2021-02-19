@@ -84,7 +84,9 @@ APT36 = [Transparent Tribe, ProjectM, Mythic Leopard, TEMP.Lapis.](https://blog.
 
 APT37 = Thallium, [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html), [ScarCruft](https://cyware.com/news/researchers-caught-a-north-korean-group-trying-out-a-new-hiding-trick-cc691397)
 
-APT38 = 
+APT38 = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea)
+
+APT38 Subgroups = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/)
 
 APT39 = Chafer
 
@@ -107,8 +109,6 @@ Muddy Water = [Cobalt Ultser, Seed Worm, TEMP.Zagros, Static Kitten](https://www
 Gaza Cybergang = [MoleRats](https://attack.mitre.org/groups/G0021/)
 
 Dragonfly = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/)
-
-Lazarus Group = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/) subgroup of Lazarus
 
 Electric Panda = doesn't seem to have an alias
 
