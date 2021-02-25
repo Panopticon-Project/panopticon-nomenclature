@@ -84,7 +84,7 @@ APT36 = [Transparent Tribe, ProjectM, Mythic Leopard, TEMP.Lapis.](https://blog.
 
 APT37 = Thallium, [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html), [ScarCruft](https://cyware.com/news/researchers-caught-a-north-korean-group-trying-out-a-new-hiding-trick-cc691397)
 
-APT38 = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea)
+APT38 = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [ZINC](https://www.itnews.com.au/news/lazarus-group-behind-security-researcher-attacks-560380)
 
 APT38 Subgroups = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/)
 
