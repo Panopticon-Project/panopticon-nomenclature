@@ -88,6 +88,10 @@ APT38 = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#
 
 APT38 Subgroups = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/), [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
 
+BlueNorOff = Stardust Chollima
+
+AndAriel = Silent Chollima
+
 APT39 = Chafer
 
 APT40 = [Gadolinium, Leviathan](https://www.zdnet.com/article/microsoft-removed-18-azure-ad-apps-used-by-chinese-state-sponsored-hacker-group/), [TEMP.Periscope](https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html), [TEMP.Jumper, BRONZE MOHAWK, Kryptonite Panda](https://www.securityweek.com/microsoft-says-china-linked-hackers-abused-azure-attacks)
@@ -123,5 +127,3 @@ Cactus Pete = [Karma Panda, Tonto Team](https://www.securityweek.com/china-linke
 BlackTech = [Palmerworm](https://thehackernews.com/2020/09/chinese-apt-group-targets-media-finance.html)
 
 Red Delta = [Mustang Panda, TA416](https://threatpost.com/ta416-apt-plugx-malware-variant/161505/)
-
-AndAriel = Silent Chollima
