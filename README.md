@@ -86,7 +86,7 @@ APT37 = Thallium, [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/
 
 APT38 = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [ZINC](https://www.itnews.com.au/news/lazarus-group-behind-security-researcher-attacks-560380)
 
-APT38 Subgroups = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/), [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
+APT38 Subgroups = [BlueNorOff](https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/), [AndAriel](https://home.treasury.gov/news/press-releases/sm774), [BeagleBoyz](https://us-cert.cisa.gov/ncas/alerts/aa20-239a)
 
 BlueNorOff = Stardust Chollima
 
