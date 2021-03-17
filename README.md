@@ -127,3 +127,5 @@ Cactus Pete = [Karma Panda, Tonto Team](https://www.securityweek.com/china-linke
 BlackTech = [Palmerworm](https://thehackernews.com/2020/09/chinese-apt-group-targets-media-finance.html)
 
 Red Delta = [Mustang Panda, TA416](https://threatpost.com/ta416-apt-plugx-malware-variant/161505/)
+
+APT-C-35 = [DoNot Team, Donot Team, APT-C-35](https://malpedia.caad.fkie.fraunhofer.de/actor/apt-c-35)
