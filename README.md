@@ -129,3 +129,5 @@ BlackTech = [Palmerworm](https://thehackernews.com/2020/09/chinese-apt-group-tar
 Red Delta = [Mustang Panda, TA416](https://threatpost.com/ta416-apt-plugx-malware-variant/161505/)
 
 APT-C-35 = [DoNot Team, Donot Team, APT-C-35](https://malpedia.caad.fkie.fraunhofer.de/actor/apt-c-35)
+
+Animal Farm = [Snowglobe, SIG20, ATK 8](https://apt.thaicert.or.th/cgi-bin/showcard.cgi?g=Snowglobe%2C%20Animal%20Farm)
