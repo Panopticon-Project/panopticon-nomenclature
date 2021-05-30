@@ -56,7 +56,7 @@ APT24 = [PittyTiger](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT25 = [Uncool, Vixen Panda, Ke3chang, Sushi Roll, Tor](https://www.fireeye.com/current-threats/apt-groups.html) The consensus online seems to be that vixen panda is APT15, but FireEye have them listed here as APT25. There is very little online about aliases for APT25.
 
-APT26 = 
+APT26 = [Turbine Panda, Hippo Team, JerseyMikes, BRONZE EXPRESS](https://malpedia.caad.fkie.fraunhofer.de/actor/apt_26) however unable to find a primary source to confirm this.
 
 There seem to be two discretely different APT 27s
 
