@@ -54,7 +54,7 @@ APT23 = [Pirate Panda, Tropic Trooper, KeyBoy](https://malpedia.caad.fkie.fraunh
 
 APT24 = [PittyTiger](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT25 = [Uncool, Vixen Panda, Ke3chang, Sushi Roll, Tor](https://www.fireeye.com/current-threats/apt-groups.html)
+APT25 = [Uncool, Vixen Panda, Ke3chang, Sushi Roll, Tor](https://www.fireeye.com/current-threats/apt-groups.html) The consensus online seems to be that vixen panda is APT15, but FireEye have them listed here as APT25. There is very little online about aliases for APT25.
 
 APT26 = 
 
