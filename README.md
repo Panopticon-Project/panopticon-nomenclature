@@ -78,7 +78,7 @@ APT33 = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/ale
 
 APT34 = OilRig, Helix Kitten
 
-APT35 = [Charming Kitten, ITG18, Phosphorous, APT35, and NewsBeef](https://www.securityweek.com/iran-linked-hackers-accidentally-exposed-40-gb-their-files)
+APT35 = [Charming Kitten, ITG18, Phosphorous, and NewsBeef](https://www.securityweek.com/iran-linked-hackers-accidentally-exposed-40-gb-their-files), [Magic Hound, COBALT ILLUSION](https://attack.mitre.org/groups/G0059/)
 
 APT36 = [Transparent Tribe, ProjectM, Mythic Leopard, TEMP.Lapis.](https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/)
 
