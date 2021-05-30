@@ -8,7 +8,7 @@ For many different reasons, nomenclature is difficult when it comes to APTs. [He
 
 APT1 = [Comment Crew, Unit 61398](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT2 = 
+APT2 = [Putter Panda, MSUpdater](https://attack.mitre.org/groups/G0024/)
 
 APT3 = [UPS Team](https://www.fireeye.com/current-threats/apt-groups.html)
 
