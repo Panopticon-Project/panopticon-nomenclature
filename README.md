@@ -68,7 +68,7 @@ APT28 = [Fancy Bear, Sofacy, Strontium, Grizzly Steppe](https://www.zdnet.com/ar
 
 APT29 = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/)
 
-APT30 = [APT30](https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf)
+APT30 = doesn't seem to have an alias
 
 APT31 = [Zirconium](https://www.cyberscoop.com/apt10-apt31-recorded-future-rapid7-china/), [Bronze Vinewood](https://www.secureworks.com/research/bronze-vinewood-targets-supply-chains), [JUDGMENT PANDA](https://malpedia.caad.fkie.fraunhofer.de/actor/apt31), [Hurricane Panda](https://webcache.googleusercontent.com/search?q=cache:-C8Xr_rZqeUJ:https://thecyberwire.com/newsletters/daily-briefing/9/109+&cd=6&hl=en&ct=clnk&gl=au&client=firefox-b-d). Hurricane Panda is also listed as [Black Vine, TEMP.Avengers](https://malpedia.caad.fkie.fraunhofer.de/actor/hurricane_panda), which are aliases for [Deep Panda](https://attack.mitre.org/groups/G0009/), APT19.
 
