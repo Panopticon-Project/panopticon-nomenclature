@@ -12,7 +12,7 @@ APT2 = [Putter Panda, MSUpdater](https://attack.mitre.org/groups/G0024/)
 
 APT3 = [UPS Team](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT4 = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-threats/apt-groups.html)
+APT4 = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-threats/apt-groups.html), [Samurai Panda](https://malpedia.caad.fkie.fraunhofer.de/actor/samurai_panda)
 
 APT5 = [DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.com/research/threat-profiles)
 
