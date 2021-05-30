@@ -30,7 +30,7 @@ APT11 = doesn't seem to have an alias
 
 APT12 = [Calc Team](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT13 = 
+APT13 = doesn't seem to have an alias
 
 APT14 = 
 
