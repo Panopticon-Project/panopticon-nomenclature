@@ -20,7 +20,7 @@ APT6 = doesn't seem to have an alias
 
 APT7 = 
 
-APT8 = 
+APT8 = [APT20](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
 APT9 = 
 
@@ -44,7 +44,7 @@ APT18 = [Wekby](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT19 = [Codoso Team](https://www.fireeye.com/current-threats/apt-groups.html), [Shell Crew, Web Masters, APT 19, Kung Fu Kittens, Black Vine, Temp.Avengers, Group 13](https://www.cfr.org/cyber-operations/deep-panda), [Deep Panda, WebMasters, PinkPanther, Sh3llCr3w, BRONZE FIRESTONE](https://malpedia.caad.fkie.fraunhofer.de/actor/shell_crew)
 
-APT20 = Violin Panda, [Twivy](https://www.fireeye.com/current-threats/apt-groups.html)
+APT20 = Violin Panda, [Twivy](https://www.fireeye.com/current-threats/apt-groups.html), [APT8](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
 APT21 = [Zhenbao, Hammer Panda](https://cybergeeks.tech/dissecting-apt21-samples-using-a-step-by-step-approach/)
 
