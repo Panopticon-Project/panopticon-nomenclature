@@ -6,13 +6,13 @@
 
 For many different reasons, nomenclature is difficult when it comes to APTs. [Here](https://twitter.com/FDjoes/status/1181264949961805824) is just one example. Below is an attempt to build up a reference for people to refer to. There is a lot of overlap and this will be continually updated over time to reflect as accurately as possible the different names of APTs and APT overlap.
 
-APT1 = 
+APT1 = [Comment Crew, Unit 61398](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT2 = 
 
-APT3 = 
+APT3 = [UPS Team](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT4 = 
+APT4 = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT5 = [DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.com/research/threat-profiles)
 
@@ -28,7 +28,7 @@ APT10 = [Stone Panda, Menu Pass](https://adeo.com.tr/en/adeo_annual_threat_repor
 
 APT11 = 
 
-APT12 = 
+APT12 = [Calc Team](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT13 = 
 
@@ -38,23 +38,23 @@ APT15 = [Ke3chang, Vixen Panda, Playful Dragon, Royal APT](https://www.bleepingc
 
 APT16 = 
 
-APT17 = 
+APT17 = [Tailgator Team, Deputy Dog](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT18 = 
+APT18 = [Wekby](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT19 = [Codoso Team](https://www.fireeye.com/current-threats/apt-groups.html), [Shell Crew, Web Masters, APT 19, Kung Fu Kittens, Black Vine, Temp.Avengers, Group 13](https://www.cfr.org/cyber-operations/deep-panda), [Deep Panda, WebMasters, PinkPanther, Sh3llCr3w, BRONZE FIRESTONE](https://malpedia.caad.fkie.fraunhofer.de/actor/shell_crew)
 
-APT20 = Violin Panda
+APT20 = Violin Panda, [Twivy](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT21 = [Zhenbao, Hammer Panda](https://cybergeeks.tech/dissecting-apt21-samples-using-a-step-by-step-approach/)
 
-APT22 = 
+APT22 = [Barista](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT23 = [Pirate Panda, Tropic Trooper, KeyBoy](https://malpedia.caad.fkie.fraunhofer.de/actor/pirate_panda)
 
-APT24 = 
+APT24 = [PittyTiger](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT25 = 
+APT25 = [Uncool, Vixen Panda, Ke3chang, Sushi Roll, Tor](https://www.fireeye.com/current-threats/apt-groups.html)
 
 APT26 = 
 
