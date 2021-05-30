@@ -16,7 +16,7 @@ APT4 = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-thr
 
 APT5 = [DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.com/research/threat-profiles)
 
-APT6 = 
+APT6 = doesn't seem to have an alias
 
 APT7 = 
 
