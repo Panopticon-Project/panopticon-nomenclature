@@ -20,7 +20,7 @@ APT6 = doesn't seem to have an alias
 
 APT7 = 
 
-APT8 = [APT20](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
+APT8 = [APT20, Violin Panda, Twivy](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
 APT9 = 
 
