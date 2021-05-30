@@ -34,7 +34,7 @@ APT13 =
 
 APT14 = 
 
-APT15 = [Ke3chang, Vixen Panda, Playful Dragon, Royal APT](https://www.bleepingcomputer.com/news/security/hacking-group-builds-new-ketrum-malware-from-recycled-backdoors/), [GREF, Mirage](https://www.securityweek.com/chinese-hackers-target-uyghurs-multiple-android-surveillance-tools)
+APT15 = [Ke3chang, Vixen Panda, Playful Dragon, Royal APT](https://www.bleepingcomputer.com/news/security/hacking-group-builds-new-ketrum-malware-from-recycled-backdoors/), [GREF, Mirage](https://www.securityweek.com/chinese-hackers-target-uyghurs-multiple-android-surveillance-tools). See also APT25
 
 APT16 = 
 
