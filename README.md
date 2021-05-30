@@ -18,7 +18,7 @@ APT5 = [DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.co
 
 APT6 = doesn't seem to have an alias
 
-APT7 = 
+APT7 = doesn't seem to have an alias
 
 APT8 = [APT20, Violin Panda, Twivy](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
