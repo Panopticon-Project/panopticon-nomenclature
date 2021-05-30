@@ -42,7 +42,7 @@ APT17 = [Tailgator Team, Deputy Dog](https://www.fireeye.com/current-threats/apt
 
 APT18 = [Wekby](https://www.fireeye.com/current-threats/apt-groups.html)
 
-APT19 = [Codoso Team](https://www.fireeye.com/current-threats/apt-groups.html), [Shell Crew, Web Masters, APT 19, Kung Fu Kittens, Black Vine, Temp.Avengers, Group 13](https://www.cfr.org/cyber-operations/deep-panda), [Deep Panda, WebMasters, PinkPanther, Sh3llCr3w, BRONZE FIRESTONE](https://malpedia.caad.fkie.fraunhofer.de/actor/shell_crew)
+APT19 = [Codoso Team](https://www.fireeye.com/current-threats/apt-groups.html), [Shell Crew, Web Masters, Kung Fu Kittens, Black Vine, Temp.Avengers, Group 13](https://www.cfr.org/cyber-operations/deep-panda), [Deep Panda, WebMasters, PinkPanther, Sh3llCr3w, BRONZE FIRESTONE](https://malpedia.caad.fkie.fraunhofer.de/actor/shell_crew)
 
 APT20 = Violin Panda, [Twivy](https://www.fireeye.com/current-threats/apt-groups.html), [APT8](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
@@ -70,7 +70,7 @@ APT29 = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operati
 
 APT30 = [APT30](https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf)
 
-APT31 = [Zirconium](https://www.cyberscoop.com/apt10-apt31-recorded-future-rapid7-china/), [Bronze Vinewood](https://www.secureworks.com/research/bronze-vinewood-targets-supply-chains)
+APT31 = [Zirconium](https://www.cyberscoop.com/apt10-apt31-recorded-future-rapid7-china/), [Bronze Vinewood](https://www.secureworks.com/research/bronze-vinewood-targets-supply-chains), [JUDGMENT PANDA](https://malpedia.caad.fkie.fraunhofer.de/actor/apt31), [Hurricane Panda](https://webcache.googleusercontent.com/search?q=cache:-C8Xr_rZqeUJ:https://thecyberwire.com/newsletters/daily-briefing/9/109+&cd=6&hl=en&ct=clnk&gl=au&client=firefox-b-d). Hurricane Panda is also listed as [Black Vine, TEMP.Avengers](https://malpedia.caad.fkie.fraunhofer.de/actor/hurricane_panda), which are aliases for [Deep Panda](https://attack.mitre.org/groups/G0009/), APT19.
 
 APT32 = [OceanLotus Group, Ocean Lotus, OceanLotus, Cobalt Kitty, APT-C-00, SeaLotus, Sea Lotus, APT-32, APT 32, Ocean Buffalo, POND LOACH](https://malpedia.caad.fkie.fraunhofer.de/actor/apt32) 
 
