@@ -46,7 +46,7 @@ APT19 = [Codoso Team](https://www.fireeye.com/current-threats/apt-groups.html), 
 
 APT20 = Violin Panda, [Twivy](https://www.fireeye.com/current-threats/apt-groups.html), [APT8](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
-APT21 = [Zhenbao, Hammer Panda](https://cybergeeks.tech/dissecting-apt21-samples-using-a-step-by-step-approach/)
+APT21 = [Zhenbao, Hammer Panda](https://cybergeeks.tech/dissecting-apt21-samples-using-a-step-by-step-approach/), [NetTraveler](https://www.cfr.org/cyber-operations/nettraveler)
 
 APT22 = [Barista](https://www.fireeye.com/current-threats/apt-groups.html)
 
