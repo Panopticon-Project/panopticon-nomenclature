@@ -133,3 +133,33 @@ APT-C-35 = [DoNot Team, Donot Team](https://malpedia.caad.fkie.fraunhofer.de/act
 Animal Farm = [Snowglobe, SIG20, ATK 8](https://apt.thaicert.or.th/cgi-bin/showcard.cgi?g=Snowglobe%2C%20Animal%20Farm)
 
 Dark Hotel =  [APT-C-06](https://securityaffairs.co/wordpress/101151/apt/darkhotel-hit-china.html)
+
+UNC2717 =
+
+UNC2630 = 
+
+Agrius =
+
+UNC1151 =
+
+EvilCorp =
+
+DLTminer =
+
+Mikroceen =
+
+Websiic =
+
+Calypso =
+
+Tick = 
+
+Naikon =
+
+TALONITE =
+
+HAFNIUM =
+
+Palestinian Preventive Security Service = 
+
+Gamaredon =
