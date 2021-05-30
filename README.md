@@ -22,7 +22,7 @@ APT7 =
 
 APT8 = [APT20, Violin Panda, Twivy](https://threatmodel.venafi.com/groups/VG0008/) according to tertiary sources but I've found no primary source that lists both APT8 and APT20 as the same group.
 
-APT9 = 
+APT9 = [Nightshade Panda, Flowerlady, Flowershow](https://malpedia.caad.fkie.fraunhofer.de/actor/nightshade_panda) however unable to find a primary source to confirm this.
 
 APT10 = [Stone Panda, Menu Pass](https://adeo.com.tr/en/adeo_annual_threat_report/), [Red Apollo, CVNX, Potassium](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN), [Cicada, Cloud Hopper](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage)
 
