@@ -110,7 +110,7 @@ Velvet Chollima = [Kimsuky Group](https://blog.yoroi.company/research/the-north-
 
 Muddy Water = [Cobalt Ultser, Seed Worm, TEMP.Zagros, Static Kitten](https://www.secureworks.com/blog/business-as-usual-for-iranian-operations-despite-increased-tensions), [MERCURY](https://threatpost.com/microsoft-zerologon-attack-iranian-actors/159874/)
 
-Gaza Cybergang = [MoleRats](https://attack.mitre.org/groups/G0021/)
+Gaza Cybergang = [MoleRats](https://attack.mitre.org/groups/G0021/), [TA402](https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html)
 
 Dragonfly = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/)
 
