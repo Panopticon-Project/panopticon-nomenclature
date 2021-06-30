@@ -104,7 +104,7 @@ Hexane = Lyceum
 
 Xenotime = [Triton, Trisis](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america)
 
-Sandworm = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Quedagh, Voodoo Bear](https://attack.mitre.org/groups/G0034/), 
+Sandworm = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Quedagh, Voodoo Bear](https://attack.mitre.org/groups/G0034/), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68).
 
 Sandword subgroups = [Kamacite](https://arstechnica.com/information-technology/2021/02/hackers-tied-to-russias-gru-targeted-the-us-grid-for-years/)
 
