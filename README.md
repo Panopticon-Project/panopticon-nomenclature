@@ -96,7 +96,7 @@ APT39 = Chafer
 
 APT40 = [Gadolinium, Leviathan](https://www.zdnet.com/article/microsoft-removed-18-azure-ad-apps-used-by-chinese-state-sponsored-hacker-group/), [TEMP.Periscope](https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html), [TEMP.Jumper, BRONZE MOHAWK, Kryptonite Panda](https://www.securityweek.com/microsoft-says-china-linked-hackers-abused-azure-attacks)
 
-APT41 = [Barium, Winnti](https://www.technologyreview.com/f/614088/chinese-hackers-do-double-duty-operations-for-espionage-and-profit/), [ShadowHammer, ShadowPad, Wicked Panda](https://www.wired.com/story/barium-supply-chain-hackers/). Given [this](https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-exchange-vulnerabilities) article I need to look into the attribution of Winnti and Shadowpad together
+APT41 = [Barium, Winnti](https://www.technologyreview.com/f/614088/chinese-hackers-do-double-duty-operations-for-espionage-and-profit/), [ShadowHammer, ShadowPad, Wicked Panda](https://www.wired.com/story/barium-supply-chain-hackers/). ShadowPad can refer to APT41, but can also refer to other groups as multiple groups use ShadowPad malware. [APT41 has strong ties to RedEcho and Tonto Team](https://www.prnewswire.com/in/news-releases/recorded-future-china-linked-group-redecho-targets-the-indian-power-sector-896581599.html).
 
 APT-C-50 = [Domestic Kitten](https://www.maldefense.com/tag/apt-c-50)
 
