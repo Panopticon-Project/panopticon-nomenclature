@@ -167,3 +167,29 @@ Palestinian Preventive Security Service =
 Gamaredon =
 
 Sharp Panda = doesn't seem to have an alias
+
+Doppel Spider = 
+
+Indrik Spider = https://blog.truesec.com/2021/05/05/are-the-notorious-cyber-criminals-evil-corp-actually-russian-spies/ EvilCorp Silverfish
+
+Wizard Spider = 
+
+Mummy Spider = 
+
+Trickbot = 
+
+UNC2628 = 
+
+UNC2659 = 
+
+UNC2465 = 
+
+DarkSide = 
+
+REvil = 
+
+FIN11 = 
+
+UNC2582 = 
+
+UNC2546 =
